@@ -1,1 +1,3 @@
 # Data-Analytics-Project-2
+For this project, the objective was to analyze house data from Washington, D.C. and look for patterns, while utilizing charts and graphs (bar chart, box and whisker plot, and violin plot), as well some of the statistical functionality Python has.
+The analysis determined that ideally an investor would be interested in residential houses (not condos) in the NW quadrant. Since "actual year built" has a negative coefficient and "last year an improvement was built" has a positive coefficient based on this model, an older house with more recent construction would sell for a higher price. Additionally, a bigger house based on the gross building area in square feet should also sell for a higher price.
